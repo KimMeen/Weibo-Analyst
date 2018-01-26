@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Dec  3 14:53:28 2017
-
 @author: Ming JIN
 """
 import re
