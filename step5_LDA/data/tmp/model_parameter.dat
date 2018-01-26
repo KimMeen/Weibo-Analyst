@@ -1,0 +1,5 @@
+K=10
+alpha=0.5
+beta=0.1
+迭代次数  iter_times=1000
+每个类的高频词显示个数  top_words_num=20
