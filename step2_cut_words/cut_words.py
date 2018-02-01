@@ -5,9 +5,9 @@ Created on Tue Dec 19 18:51:48 2017
 @author: Ming JIN
 """
 import jieba
-import string
-import sys
-import os
+#import string
+#import sys
+#import os
 import pymysql
 
 jieba.load_userdict("SogouLabDic.txt")

@@ -2,27 +2,28 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Dec  3 14:53:28 2017
+
 @author: Ming JIN
 """
-import re
+#import re
 import importlib
-import string
+#import string
 import sys
-import os
+#import os
 import time
-import urllib3
-from bs4 import BeautifulSoup
+#import urllib3
+#from bs4 import BeautifulSoup
 import requests
 from lxml import etree
 import pymysql
 importlib.reload(sys)
 
-cookie = {"Cookie":"请输入你自己的cookies"}
+cookie = {"Cookie":"请输入自己的cookies"}
 
 def get_url(index):
     print("连接Mysql数据库读入数据...")
 
-    db1 = pymysql.connect(host='127.0.0.1',port=3306,user='root',password='请输入你自己的password',db='URL_database',charset='utf8mb4',cursorclass = pymysql.cursors.DictCursor)
+    db1 = pymysql.connect(host='127.0.0.1',port=3306,user='root',password='root123',db='URL_database',charset='utf8mb4',cursorclass = pymysql.cursors.DictCursor)
  
     cursor1 = db1.cursor()
     
@@ -44,7 +45,7 @@ def get_url(index):
 
 def create_table(index):
     
-    db3 = pymysql.connect(host='127.0.0.1',port=3306,user='root',password='请输入你自己的password',db='2017_database',charset='utf8mb4',cursorclass = pymysql.cursors.DictCursor)
+    db3 = pymysql.connect(host='127.0.0.1',port=3306,user='root',password='root123',db='2017_database',charset='utf8mb4',cursorclass = pymysql.cursors.DictCursor)
     
     cursor3 = db3.cursor()
     
@@ -61,7 +62,7 @@ def create_table(index):
 
 def write_in_database(text1,text2,text3,text4,index):
     
-    db2 = pymysql.connect(host='127.0.0.1',port=3306,user='root',password='请输入你自己的password',db='2017_database',charset='utf8mb4',cursorclass = pymysql.cursors.DictCursor)
+    db2 = pymysql.connect(host='127.0.0.1',port=3306,user='root',password='root123',db='2017_database',charset='utf8mb4',cursorclass = pymysql.cursors.DictCursor)
  
     cursor2 = db2.cursor()
     

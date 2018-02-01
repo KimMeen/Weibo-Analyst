@@ -10,7 +10,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties  
 from wordcloud import WordCloud,ImageColorGenerator
-import matplotlib.mlab as mlab    
+#import matplotlib.mlab as mlab    
 
 font = FontProperties(fname='Songti.ttc')  
 bar_width = 0.5

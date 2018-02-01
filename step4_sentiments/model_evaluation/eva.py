@@ -4,10 +4,10 @@
 Created on Thu Jan  4 09:59:46 2018
 @author: Ming JIN
 """
-from snownlp import sentiment
-import numpy as np
+#from snownlp import sentiment
+#import numpy as np
 from snownlp import SnowNLP
-from snownlp.sentiment import Sentiment
+#from snownlp.sentiment import Sentiment
 
 comment = []
 
