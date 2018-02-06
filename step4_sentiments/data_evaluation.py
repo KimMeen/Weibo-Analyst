@@ -14,7 +14,7 @@ comment = []
 pos_count = 0
 neg_count = 0
 
-for line_data in open("./step2_cut_words/data_full.dat"):
+for line_data in open("请输入data_keywords.dat的目录"):
     
     comment = line_data
     

@@ -23,7 +23,7 @@ def get_data(index_news):
     
     print("连接MySql数据库...")
     
-    db = pymysql.connect(host='127.0.0.1',port=3306,user='root',password='请输入你自己的password',db='2017_database',charset='utf8',cursorclass = pymysql.cursors.DictCursor)
+    db = pymysql.connect(host='127.0.0.1',port=3306,user='root',password='请输入自己的密码',db='2017_database',charset='utf8',cursorclass = pymysql.cursors.DictCursor)
  
     cursor = db.cursor()
 

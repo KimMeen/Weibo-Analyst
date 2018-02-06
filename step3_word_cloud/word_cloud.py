@@ -16,7 +16,7 @@ font = FontProperties(fname='Songti.ttc')
 bar_width = 0.5
 lyric= ''
 
-f=open('./step2_cut_words/data_keywords.dat','r')
+f=open('请输入data_keywords.dat的目录','r')
 
 for i in f:
     lyric+=f.read()
