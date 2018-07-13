@@ -1,14 +1,17 @@
 # weibo_analyst
+
+**This repository will be updated occasionally, and mainly based on python3.6, OS X.**
+
 这是一个微博评论分析工具，实现功能主要有：
-1.微博评论数据爬取；
-2.分词与关键词提取；
-3.词云与词频统计；
-4.情感分析；
-5.主题聚类
+1. 微博评论数据爬取；
+2. 分词与关键词提取；
+3. 词云与词频统计；
+4. 情感分析；
+5. 主题聚类
 
-Based on python3.6.
+实现的效果在目录下: “ 案例：泰国大象踩踏伤人事件 ”
 
-Python libraries requirements:
+Pre-Requirements Checklist:
 1. importlib;
 2. sys;
 3. time;
@@ -25,6 +28,3 @@ Python libraries requirements:
 14. random;
 15. codecs;
 16. os;
-
-实现的效果在目录下:
-“ 案例：泰国大象踩踏伤人事件 ”
