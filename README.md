@@ -12,6 +12,9 @@
 实现的效果在目录下: “ 案例：泰国大象踩踏伤人事件 ”
 
 Pre-Requirements Checklist:
+
+**MySQL is required(Highly recommend MySQL Workbench)**
+
 1. importlib;
 2. sys;
 3. time;
