@@ -1,10 +1,13 @@
 # weibo_analyst
 
+## BEFORE YOU USE
 This repository will be updated occasionally, and mainly based on python3.6, OS X.
 
+**Please follow the restrictions in Apache-2.0 Licence before you use this repository.** 
 
-**Please follow the restrictions in Apache-2.0 Licence before you use this repository. ALl rights reserved by Ming Jin.**
+**All rights reserved by Ming Jin.**
 
+## Introduction
 这是一个微博评论分析工具，实现功能主要有：
 1. 微博评论数据爬取；
 2. 分词与关键词提取；
@@ -14,8 +17,9 @@ This repository will be updated occasionally, and mainly based on python3.6, OS 
 
 实现的效果在目录下: “ 案例：泰国大象踩踏伤人事件 ”
 
+*Codes also works on Twitter and I may update a new repository about it.*
 
-**Pre-Requirements Checklist:**
+## Pre-Requirements Checklist
 
 *MySQL is required(Highly recommend MySQL Workbench)*
 
