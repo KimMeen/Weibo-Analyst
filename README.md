@@ -1,6 +1,7 @@
 # weibo_analyst
 
 **This repository will be updated occasionally, and mainly based on python3.6, OS X.**
+**Please follow the restrictions in Apache-2.0 Licence before you use this repository. ALl rights reserved by Ming Jin.**
 
 这是一个微博评论分析工具，实现功能主要有：
 1. 微博评论数据爬取；
