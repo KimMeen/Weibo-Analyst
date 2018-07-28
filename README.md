@@ -1,5 +1,3 @@
-# weibo_analyst
-
 ## BEFORE YOU USE
 This repository will be updated occasionally, and mainly based on python3.6, OS X.
 
