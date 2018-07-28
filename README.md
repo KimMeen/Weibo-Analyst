@@ -1,6 +1,8 @@
 # weibo_analyst
 
-**This repository will be updated occasionally, and mainly based on python3.6, OS X.**
+This repository will be updated occasionally, and mainly based on python3.6, OS X.
+
+
 **Please follow the restrictions in Apache-2.0 Licence before you use this repository. ALl rights reserved by Ming Jin.**
 
 这是一个微博评论分析工具，实现功能主要有：
@@ -12,9 +14,10 @@
 
 实现的效果在目录下: “ 案例：泰国大象踩踏伤人事件 ”
 
-Pre-Requirements Checklist:
 
-**MySQL is required(Highly recommend MySQL Workbench)**
+**Pre-Requirements Checklist:**
+
+*MySQL is required(Highly recommend MySQL Workbench)*
 
 1. importlib;
 2. sys;
