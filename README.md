@@ -1,5 +1,7 @@
 ## BEFORE YOU USE
-This repository will be updated occasionally, and mainly based on python3.6, OS X.
+This repository is a simple NLP project for beginners and will be updated occasionally.
+
+Its mainly based on python3.6, OS X.
 
 **Please follow the restrictions in Apache-2.0 Licence before you use this repository.** 
 
