@@ -17,7 +17,15 @@ Its mainly based on python3.6, OS X.
 
 实现的效果在目录下: “ 案例：泰国大象踩踏伤人事件 ”
 
-*Codes also works on Twitter and I may update a new repository about it.*
+This is a Weibo comments processing toolbox, which has been implemented for:
+
+1. Weibo comments crawler that based on regular expression
+2. Tokenization, filtration and key words extraction
+3. Words cloud and visualization
+4. Sentiment analysis
+5. Topic clustering that based on LDA
+
+*Code also works on Twitter and I may update a new repository about it.*
 
 ## Pre-Requirements Checklist
 
