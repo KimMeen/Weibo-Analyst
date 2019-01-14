@@ -4,7 +4,7 @@
 
 **Please follow the restrictions in Apache-2.0 Licence before you use this repository.** 
 
-**All rights reserved by Ming Jin(mingj2@student.unimelb.edu.au).**
+**@Ming Jin** (*mingj2@student.unimelb.edu.au*)
 
 This repository is a simple NLP project for beginners and will be updated occasionally.
 
@@ -49,3 +49,14 @@ This is a Weibo comments processing toolbox, which has been implemented for:
 13. configparser
 14. random
 15. codecs
+
+## Citing The Code
+BibTex reference format:
+```
+@misc{WeiboAnalyst,
+title={Weibo-Analyst: An Open-Source Python Library for Social Media Comments Analysis},
+url={https://github.com/KimMeen/Weibo-Analyst},
+author={Ming Jin},
+year={2018}
+}
+```
