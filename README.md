@@ -1,16 +1,16 @@
-[![](https://travis-ci.org/Alamofire/Alamofire.svg?branch=master)](https://travis-ci.org/Alamofire/Alamofire)
-
 ## About This Repository
 
-**Please follow the restrictions in Apache-2.0 Licence before you use this repository.** 
+**Please follow the restrictions in Apache-2.0 Licence before you refer to this repository.** 
 
 **@Ming Jin** (*mingj2@student.unimelb.edu.au*)
 
 This repository is a simple NLP project for beginners and will be updated occasionally.
 
-Its mainly based on python3.6, OS X.
+Environment: Python3.6
+
 
 ## Introduction
+
 这是一个微博评论分析工具，实现功能主要有：
 1. 微博评论数据爬取
 2. 分词与关键词提取
@@ -29,11 +29,10 @@ This is a Weibo comments processing toolbox, which has been implemented for:
 4. Sentiment analysis
 5. Topic clustering that based on LDA
 
-*Code also works on Twitter and I may update a new repository about it.*
 
 ## Pre-Requirements Checklist
 
-*MySQL is required(Highly recommend MySQL Workbench)*
+*MySQL is required (e.g., You may use MySQL Workbench)*
 
 1. importlib
 2. sys
@@ -50,7 +49,9 @@ This is a Weibo comments processing toolbox, which has been implemented for:
 14. random
 15. codecs
 
+
 ## Citing The Code
+
 BibTex reference format:
 ```
 @misc{WeiboAnalyst,
