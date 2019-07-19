@@ -8,6 +8,11 @@ This repository is a simple NLP project for beginners and will be updated occasi
 
 Environment: Python3.6
 
+**Pull requests are always welcome!**
+
+To-do list:
+1. Sentiment analysis can be done by using LSTM.
+2. Crawler can be improved based on some libraries like BeautifulSoup.
 
 ## Introduction
 
